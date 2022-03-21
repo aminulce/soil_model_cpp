@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trial_wedge.dir/eg.cpp.o CMakeFiles/trial_wedge.dir/Sm_geometry.cpp.o CMakeFiles/trial_wedge.dir/matrix_manipulate.cpp.o CMakeFiles/trial_wedge.dir/main.cpp.o  -o ../bin/trial_wedge 

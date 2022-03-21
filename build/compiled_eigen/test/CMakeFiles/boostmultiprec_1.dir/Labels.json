@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aminul/Documents/soil_model_running/res/eigen-3.4.0/test/boostmultiprec.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "boostmultiprec_1"
+	}
+}
